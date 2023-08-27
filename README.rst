@@ -2,10 +2,10 @@
 
     <p align="center">
         <a href="https://ppchain.org" target="_blank">
-            <img border="0" alt="PP Chain logo" src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="360" height="auto">
+            <img border="0" alt="PP Chain logo" src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="340" height="auto">
         </a>
     </p>
-    <h2 align="center" style="border-bottom: none">Your probabilistic modeling copilot</h2>
+    <h2 align="center" style="border-bottom: none">Your Probabilistic Modeling Copilot</h2>
     <br/>
 
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
@@ -16,10 +16,10 @@
         :alt: Documentation Status
 
 
-Your probabilistic modeling open source copilot
+Your probabilistic modeling copilot
 
 
-* Free software: MIT license
+* MIT license
 * Documentation: https://ppchain.readthedocs.io
 
 
@@ -27,6 +27,12 @@ Features
 --------
 
 * TODO
+
+License
+--------
+
+* MIT license
+
 
 Credits
 -------
