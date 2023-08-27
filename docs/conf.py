@@ -97,6 +97,9 @@ html_theme_options = {
         "image_dark": "_static/ppchain-logo-dark.png",
         "link": "https://ppchain.org",
         "alt_text": "PP Chain - Home",
+        "attributes": {
+            "target": "_blank",
+        }
     },
     "icon_links": [
         {
