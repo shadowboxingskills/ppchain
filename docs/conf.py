@@ -102,7 +102,25 @@ html_theme_options = {
         {
             "name": "GitHub",
             "url": "https://github.com/shadowboxingskills/ppchain",
-            "icon": "fa-brands fa-square-github",
+            "icon": "fa-brands fa-github",
+            "type": "fontawesome",
+        },
+        {
+            "name": "PP Chain web app",
+            "url": "https://ppchain.org",
+            "icon": "fa-solid fa-house",
+            "type": "fontawesome",
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/valuegrid",
+            "icon": "fa-brands fa-linkedin",
+            "type": "fontawesome",
+        },
+        {
+            "name": "Twitter",
+            "url": "https://mobile.twitter.com/ValueGrid",
+            "icon": "fa-brands fa-twitter",
             "type": "fontawesome",
         }
     ]
