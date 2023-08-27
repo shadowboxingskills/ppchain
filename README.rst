@@ -9,7 +9,7 @@ ppchain
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-.. image:: https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true
+.. image:: https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true
         :alt: PP Chain logo
 
 
