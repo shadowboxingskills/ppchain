@@ -60,6 +60,11 @@ Contributions are very welcome, whether it is in the form of a new feature, impr
 
 For detailed information on how to contribute, see `CONTRIBUTING <https://github.com/shadowboxingskills/ppchain/blob/master/CONTRIBUTING.rst>`_.
 
+If you are interested to get further involved with the
+.. raw:: html
+    <a href="https://valuegrid.io" target="_blank">ValueGrid</a>
+team on this project, please `contact us <mailto:nawel@valuegrid.io?subject=[GitHub]%20PPChain>`_.
+
 |
 
 License
