@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+
 html[data-theme="light"] {
     --pst-color-primary: #6750a4;
     --pst-color-secondary: #ff4365;
