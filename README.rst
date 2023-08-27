@@ -12,6 +12,12 @@ ppchain
 .. image:: https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true
         :alt: PP Chain logo
 
+.. raw:: html
+
+   <div align="center">
+       <img src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="auto" height="280" alt="PP Chain logo">
+   </div>
+
 
 Your probabilistic modeling open source copilot
 
