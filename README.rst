@@ -27,6 +27,7 @@
         :target: https://opensource.org/licenses/MIT
         :alt: MIT License
 
+|
 
 Generative AI meets Probabilistic Programming.
 PP Chain, your open source toolkit for intuitive, powerful modeling.
