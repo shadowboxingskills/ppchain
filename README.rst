@@ -64,7 +64,12 @@ See `LICENSE <https://github.com/shadowboxingskills/ppchain/blob/master/LICENSE>
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+* Initial inspiration for this package came from `Thomas Wiecki, PhD`_ and `Daniel Lee`_, as explained in more details in this `LinkedIn post`_ and `Medium article`_.
+* This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _`Thomas Wiecki, PhD`: https://www.linkedin.com/in/twiecki
+.. _`Daniel Lee`: https://www.linkedin.com/in/syclik
+.. _`LinkedIn post`: https://www.linkedin.com/pulse/harnessing-gpts-next-significant-advancement-marc-fournier-carrie
+.. _`Medium article`: https://medium.com/@marc.fourniercarrie/harnessing-gpts-for-the-next-significant-advancement-in-probabilistic-programming-70ccfc33846f
