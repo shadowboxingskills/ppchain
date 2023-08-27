@@ -94,7 +94,7 @@ html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
     "logo": {
         "image_light": "_static/ppchain-logo-light.png",
-        "image_dark": "_static/ppchain-logo-light.png",
+        "image_dark": "_static/ppchain-logo-dark.png",
         "link": "https://ppchain.org",
         "alt_text": "PP Chain - Home",
     }
