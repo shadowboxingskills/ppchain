@@ -12,6 +12,9 @@
 ppchain
 =======
 
+<div align="center">
+  ![Alt text for your image](https://github.com/shadowboxingskills/ppchain/blob/master/logo.svg)
+</div>
 
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
         :target: https://pypi.python.org/pypi/ppchain
