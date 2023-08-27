@@ -118,9 +118,9 @@ html_theme_options = {
             "type": "fontawesome",
         },
         {
-            "name": "Twitter",
+            "name": "X",
             "url": "https://mobile.twitter.com/ValueGrid",
-            "icon": "fa-brands fa-twitter",
+            "icon": "fa-brands fa-x-twitter",
             "type": "fontawesome",
         }
     ]
