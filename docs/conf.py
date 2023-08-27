@@ -97,7 +97,9 @@ html_theme_options = {
         "image_dark": "_static/ppchain-logo-dark.png",
         "link": "https://ppchain.org",
         "alt_text": "PP Chain - Home",
-        "target": "_blank",
+        "attributes": {
+            "target": "_blank",
+        }
     },
     "icon_links": [
         {
@@ -126,6 +128,14 @@ html_theme_options = {
         }
     ],
     "use_edit_page_button": True,
+}
+
+html_context = {
+    "github_url": "https://github.com",
+    "github_user": "shadowboxingskills",
+    "github_repo": "ppchain",
+    "github_version": "master",
+    "doc_path": "docs",
 }
 
 html_show_sourcelink = False
