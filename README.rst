@@ -29,19 +29,21 @@
 
 |
 
+🤔 What is this?
+--------
+
 Generative AI meets Probabilistic Programming.
 PP Chain, your open source toolkit for intuitive, powerful modeling.
 Your copilot to build model internal representations and optimize your Bayesian workflow.
 
-|
 
-Features
+🚀 What can this help with?
 --------
 
 * TODO
 
 
-Documentation
+📖 Documentation
 --------
 
 * Documentation: https://ppchain.readthedocs.io
