@@ -2,7 +2,8 @@
 
     <p align="center">
         <a href="https://ppchain.org" target="_blank">
-            <img border="0" alt="PP Chain logo" src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.svg?raw=true" width="340" height="auto">
+            <img border="0" alt="PP Chain logo" src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.svg?raw=true" width="340" height="auto" style="background-color: transparent;
+    border: none;">
         </a>
     </p>
     <h2 align="center" style="border-bottom: none">Your Probabilistic Modeling Copilot</h2>
