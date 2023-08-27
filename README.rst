@@ -15,6 +15,14 @@
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
+.. image:: https://img.shields.io/librariesio/github/shadowboxingskills/ppchain
+        :target: https://libraries.io/github/shadowboxingskills/ppchain
+        :alt: Dependency Status
+
+.. image:: https://img.shields.io/github/issues-raw/shadowboxingskills/ppchain
+        :target: https://github.com/shadowboxingskills/ppchain/issues
+        :alt: Open Issues
+
 .. image:: https://img.shields.io/badge/License-MIT-green.svg
         :target: https://opensource.org/licenses/MIT
         :alt: MIT License
