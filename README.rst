@@ -1,3 +1,13 @@
+<h1 align="center" style="border-bottom: none">PP Chain</h1>
+<p align="center">
+  <a href="https://ppchain.org" target="_blank">
+    <img border="0" alt="PP Chain" src="logo.svg" width="auto" height="300">
+  </a>
+</p>
+<h2 align="center" style="border-bottom: none">Your probabilistic modeling open source copilot</h2>
+<hr/>
+<br/>
+
 =======
 ppchain
 =======
