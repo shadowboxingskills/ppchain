@@ -17,11 +17,11 @@
 # relative to the documentation root, use os.path.abspath to make it
 # absolute, like shown here.
 #
+import ppchain
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 
-import ppchain
 
 # -- General configuration ---------------------------------------------
 
@@ -83,13 +83,21 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+# html_theme = 'alabaster'
+html_theme = 'pydata_sphinx_theme'
 
 # Theme options are theme-specific and customize the look and feel of a
 # theme further.  For a list of options available for each theme, see the
 # documentation.
 #
 # html_theme_options = {}
+# html_theme_options = {
+#     "logo": {
+#         "image_light": "_static/logo-light.png",
+#         "image_dark": "_static/logo-dark.png",
+#         "link": "https://ppchain.org",
+#     }
+# }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -157,6 +165,3 @@ texinfo_documents = [
      'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
