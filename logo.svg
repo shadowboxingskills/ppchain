@@ -7,6 +7,6 @@
         .dark-theme { display: inline; }
         }
     </style>
-    <image href="ppchain-logo-light.png" width="400" height="300" class="light-theme" />
-    <image href="ppchain-logo-dark.png" width="400" height="300" class="dark-theme" />
+    <image href="https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true" width="400" height="300" class="light-theme" />
+    <image href="https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-light.png?raw=true" width="400" height="300" class="dark-theme" />
 </svg>

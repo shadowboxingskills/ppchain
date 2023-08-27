@@ -16,6 +16,18 @@ ppchain
 ..   <img src="https://raw.githubusercontent.com/shadowboxingskills/ppchain/master/logo.svg" alt="PP Chain logo">
 .. </div>
 
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        .dark-theme { display: none; }
+        @media (prefers-color-scheme: dark) {
+        .light-theme { display: none; }
+        .dark-theme { display: inline; }
+        }
+    </style>
+    <image href="https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true" width="400" height="300" class="light-theme" />
+    <image href="https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-light.png?raw=true" width="400" height="300" class="dark-theme" />
+</svg>
 
 
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
