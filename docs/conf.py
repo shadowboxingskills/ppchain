@@ -97,9 +97,7 @@ html_theme_options = {
         "image_dark": "_static/ppchain-logo-dark.png",
         "link": "https://ppchain.org",
         "alt_text": "PP Chain - Home",
-        "attributes": {
-            "target": "_blank",
-        }
+        "target": "_blank",
     },
     "icon_links": [
         {
@@ -128,8 +126,9 @@ html_theme_options = {
         }
     ],
     "use_edit_page_button": True,
-    "html_show_sourcelink": False,
 }
+
+html_show_sourcelink = False
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
