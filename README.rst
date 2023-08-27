@@ -16,7 +16,7 @@
         :alt: Documentation Status
 
 
-Your probabilistic modeling copilot
+Your Probabilistic Modeling Copilot
 
 
 * MIT license
@@ -32,6 +32,7 @@ License
 --------
 
 Usage is provided under the MIT license.
+
 See `LICENSE <https://github.com/shadowboxingskills/ppchain/blob/master/LICENSE>`_ for full details.
 
 
