@@ -15,8 +15,8 @@
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-.. image:: https://opensource.org/licenses/MIT
-        :target: https://img.shields.io/badge/License-MIT-yellow.svg
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
+        :target: https://opensource.org/licenses/MIT
         :alt: MIT License
 
 
