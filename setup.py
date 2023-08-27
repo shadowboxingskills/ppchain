@@ -10,7 +10,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = [ ]
+requirements = []
 
 test_requirements = ['pytest>=3', ]
 
@@ -46,4 +46,11 @@ setup(
     url='https://github.com/shadowboxingskills/ppchain',
     version='0.0.1',
     zip_safe=False,
+    extras_require={
+        'docs': [
+            'Sphinx',
+            'pydata-sphinx-theme',
+            'ppchain',
+        ]
+    }
 )
