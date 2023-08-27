@@ -31,7 +31,8 @@ Features
 License
 --------
 
-* MIT license
+Usage is provided under the MIT license.
+See `LICENSE <https://github.com/shadowboxingskills/ppchain/blob/master/LICENSE>`_ for full details.
 
 
 Credits
