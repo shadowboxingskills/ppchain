@@ -1,12 +1,17 @@
 .. raw:: html
 
-   <div align="center">
-       <img src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="400" height="auto" alt="PP Chain logo">
-   </div>
+    <p align="center">
+        <a href="https://ppchain.org" target="_blank">
+            <img border="0" alt="PP Chain logo" src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="380" height="auto">
+        </a>
+    </p>
+    <h2 align="center" style="border-bottom: none">Your probabilistic modeling open source copilot</h2>
+    <hr/>
+    <br/>
 
-=======
-ppchain
-=======
+.. =======
+.. ppchain
+.. =======
 
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
         :target: https://pypi.python.org/pypi/ppchain
