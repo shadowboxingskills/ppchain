@@ -36,18 +36,21 @@ Generative AI meets Probabilistic Programming.
 PP Chain, your open source toolkit for intuitive, powerful modeling.
 Your copilot to build model internal representations and optimize your Bayesian workflow.
 
+|
 
 🚀 What can this help with?
 --------
 
 * TODO
 
+|
 
 📖 Documentation
 --------
 
 * Documentation: https://ppchain.readthedocs.io
 
+|
 
 License
 --------
@@ -56,6 +59,7 @@ Usage is provided under the MIT license.
 
 See `LICENSE <https://github.com/shadowboxingskills/ppchain/blob/master/LICENSE>`_ for full details.
 
+|
 
 Credits
 -------
