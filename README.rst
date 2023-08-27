@@ -9,10 +9,8 @@ ppchain
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-
-.. ![PP Chain logo](https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true)
-
-.. image:: logo.svg
+.. image:: https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true
+        :alt: PP Chain logo
 
 
 Your probabilistic modeling open source copilot
