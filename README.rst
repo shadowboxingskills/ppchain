@@ -1,3 +1,9 @@
+.. raw:: html
+
+   <div align="center">
+       <img src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="400" height="auto" alt="PP Chain logo">
+   </div>
+
 =======
 ppchain
 =======
@@ -8,15 +14,6 @@ ppchain
 .. image:: https://readthedocs.org/projects/ppchain/badge/?version=latest
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
-
-.. image:: https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true
-        :alt: PP Chain logo
-
-.. raw:: html
-
-   <div align="center">
-       <img src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.jpeg?raw=true" width="auto" height="280" alt="PP Chain logo">
-   </div>
 
 
 Your probabilistic modeling open source copilot
