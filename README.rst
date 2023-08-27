@@ -13,8 +13,9 @@ ppchain
 =======
 
 <div align="center">
-  <img src="https://github.com/shadowboxingskills/ppchain/blob/master/logo.svg" alt="PP Chain logo">
+  <img src="https://raw.githubusercontent.com/shadowboxingskills/ppchain/master/logo.svg" alt="PP Chain logo">
 </div>
+
 
 
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
