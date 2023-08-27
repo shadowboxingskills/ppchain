@@ -9,8 +9,11 @@
     <h2 align="center" style="border-bottom: none">Your Probabilistic Modeling Copilot</h2>
     <br/>
 
+|
+
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
         :target: https://pypi.python.org/pypi/ppchain
+        :alt: PyPi
 
 .. image:: https://readthedocs.org/projects/ppchain/badge/?version=latest
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
@@ -69,7 +72,6 @@ License
 --------
 
 Usage is provided under the MIT license.
-
 See `LICENSE <https://github.com/shadowboxingskills/ppchain/blob/master/LICENSE>`_ for full details.
 
 |
