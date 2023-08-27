@@ -10,7 +10,9 @@ ppchain
         :alt: Documentation Status
 
 
-![PP Chain logo](https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true)
+.. ![PP Chain logo](https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true)
+
+.. image:: logo.svg
 
 
 Your probabilistic modeling open source copilot
