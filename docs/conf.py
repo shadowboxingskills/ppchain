@@ -120,7 +120,7 @@ html_theme_options = {
         {
             "name": "X",
             "url": "https://mobile.twitter.com/ValueGrid",
-            "icon": "fa-brands fa-x-twitter",
+            "icon": "fa-brands fa-twitter",
             "type": "fontawesome",
         }
     ]
