@@ -1,9 +1,15 @@
 html[data-theme="light"] {
     --pst-color-primary: #6750a4;
     --pst-color-secondary: #ff4365;
+    --pst-font-family-base: Raleway, var(--pst-font-family-base-system);
+    --pst-font-family-heading: Raleway, var(--pst-font-family-base-system);
+    --pst-font-family-monospace: var(--pst-font-family-monospace-system);
 }
 
 html[data-theme="dark"] {
     --pst-color-primary: #9a80d4;
     --pst-color-secondary: #ff4365;
+    --pst-font-family-base: Raleway, var(--pst-font-family-base-system);
+    --pst-font-family-heading: Raleway, var(--pst-font-family-base-system);
+    --pst-font-family-monospace: var(--pst-font-family-monospace-system);
 }
