@@ -23,7 +23,7 @@
         :target: https://github.com/shadowboxingskills/ppchain/issues
         :alt: Open Issues
 
-.. image:: https://img.shields.io/badge/License-MIT-green.svg
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
         :target: https://opensource.org/licenses/MIT
         :alt: MIT License
 
