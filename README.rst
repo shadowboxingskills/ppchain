@@ -88,3 +88,6 @@ Credits
 .. _`Daniel Lee`: https://www.linkedin.com/in/syclik
 .. _`LinkedIn post`: https://www.linkedin.com/pulse/harnessing-gpts-next-significant-advancement-marc-fournier-carrie
 .. _`Medium article`: https://medium.com/@marc.fourniercarrie/harnessing-gpts-for-the-next-significant-advancement-in-probabilistic-programming-70ccfc33846f
+
+|
+
