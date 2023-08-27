@@ -2,8 +2,6 @@
 ppchain
 =======
 
-![PP Chain logo](https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true)
-
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
         :target: https://pypi.python.org/pypi/ppchain
 
@@ -12,6 +10,7 @@ ppchain
         :alt: Documentation Status
 
 
+![PP Chain logo](https://github.com/shadowboxingskills/ppchain/blob/master/docs/_static/ppchain-logo-dark.png?raw=true)
 
 
 Your probabilistic modeling open source copilot
