@@ -97,7 +97,15 @@ html_theme_options = {
         "image_dark": "_static/ppchain-logo-dark.png",
         "link": "https://ppchain.org",
         "alt_text": "PP Chain - Home",
-    }
+    },
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/shadowboxingskills/ppchain",
+            "icon": "fa-brands fa-square-github",
+            "type": "fontawesome",
+        }
+    ]
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
