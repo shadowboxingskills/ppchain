@@ -126,7 +126,9 @@ html_theme_options = {
             "icon": "fa-brands fa-twitter",
             "type": "fontawesome",
         }
-    ]
+    ],
+    "use_edit_page_button": True,
+    "html_show_sourcelink": False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
