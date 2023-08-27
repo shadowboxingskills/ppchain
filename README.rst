@@ -15,18 +15,27 @@
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
+.. image:: https://opensource.org/licenses/MIT
+        :target: https://img.shields.io/badge/License-MIT-yellow.svg
+        :alt: MIT License
 
-Your Probabilistic Modeling Copilot
 
-
-* MIT license
-* Documentation: https://ppchain.readthedocs.io
+Generative AI meets Probabilistic Programming.
+PP Chain, your open source toolkit for intuitive, powerful modeling.
+Your copilot to build model internal representations and optimize your Bayesian workflow.
 
 
 Features
 --------
 
 * TODO
+
+
+Documentation
+--------
+
+* Documentation: https://ppchain.readthedocs.io
+
 
 License
 --------
