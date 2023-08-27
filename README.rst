@@ -6,9 +6,6 @@ ppchain
 .. image:: https://img.shields.io/pypi/v/ppchain.svg
         :target: https://pypi.python.org/pypi/ppchain
 
-.. image:: https://img.shields.io/travis/shadowboxingskills/ppchain.svg
-        :target: https://travis-ci.com/shadowboxingskills/ppchain
-
 .. image:: https://readthedocs.org/projects/ppchain/badge/?version=latest
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
@@ -20,7 +17,7 @@ Your probabilistic modeling open source copilot
 
 
 * Free software: MIT license
-* Documentation: https://ppchain.readthedocs.io.
+* Documentation: https://ppchain.readthedocs.io
 
 
 Features

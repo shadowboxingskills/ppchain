@@ -91,13 +91,14 @@ html_theme = 'pydata_sphinx_theme'
 # documentation.
 #
 # html_theme_options = {}
-# html_theme_options = {
-#     "logo": {
-#         "image_light": "_static/logo-light.png",
-#         "image_dark": "_static/logo-dark.png",
-#         "link": "https://ppchain.org",
-#     }
-# }
+html_theme_options = {
+    "logo": {
+        "image_light": "_static/ppchain-logo-light.png",
+        "image_dark": "_static/ppchain-logo-light.png",
+        "link": "https://ppchain.org",
+        "alt_text": "PP Chain - Home",
+    }
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
