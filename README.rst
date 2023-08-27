@@ -57,7 +57,6 @@ Your copilot to build model internal representations and optimize your Bayesian 
 --------
 
 Contributions are very welcome, whether it is in the form of a new feature, improved infrastructure, or better documentation.
-
 For detailed information on how to contribute, see `CONTRIBUTING <https://github.com/shadowboxingskills/ppchain/blob/master/CONTRIBUTING.rst>`_.
 
 If you are interested to get further involved with the ValueGrid_ team, please `contact us <mailto:nawel@valuegrid.io?subject=[GitHub]%20PPChain>`_.
