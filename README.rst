@@ -60,7 +60,7 @@ Following the 3 main steps of the Bayesian data analysis process, as defined in 
 ⚙ Workflow
 --------
 
-``ppchain`` proposes a set of AI-assisted functions to progress through the following workflow:
+``ppchain`` provides a (progressively growing) set of AI-assisted functions to progress through the following workflow (where :math:`$P$` denotes a probability distribution, :math:`$\theta$` the parameters, and :math:`$y$` the data):
 
 * Define the problem statement
 * Formalize priors, :math:`$P(\theta)$`
@@ -103,7 +103,7 @@ Credits & references
 * Initial inspiration for ``ppchain`` came from `Thomas Wiecki, PhD`_ and `Daniel Lee`_, as explained in more details in this `LinkedIn post`_ and `Medium article`_.
 * This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
-.. [1] Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). Bayesian data analysis (3rd ed.). Chapman & Hall/CRC
+.. [1] Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A. & Rubin, D. B. (2013). Bayesian data analysis (3rd ed.). Chapman & Hall/CRC
 
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
