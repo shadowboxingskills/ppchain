@@ -71,6 +71,10 @@ Following the 3 main steps of the Bayesian data analysis process, as defined in 
 ``ppchain`` provides a (progressively growing) set of AI-assisted functions to progress through the following workflow (where :math:`$P$` denotes a probability distribution, :math:`$\theta$` the parameters, and :math:`$y$` the data):
 
 * Define the problem statement
+    - Problem statement (conversational AI)
+    - Specify hypothesis
+    - Select model type
+    - Data collection method
 * Formalize priors, :math:`$P(\theta)$`
 * Determine the likelihood function, :math:`$P(y \mid \theta)$`
 * Compute the posterior distribution, :math:`$P(\theta \mid y)$`
