@@ -37,7 +37,7 @@
 --------
 
 Generative AI meets Probabilistic Programming.
-`ppchain`, an open-source toolkit for intuitive, effective modeling.
+``ppchain``, an open-source toolkit for intuitive, effective modeling.
 Your copilot to build model internal representations and optimize your Bayesian workflow.
 
 |
@@ -45,9 +45,9 @@ Your copilot to build model internal representations and optimize your Bayesian 
 🚀 What can this help with?
 --------
 
-`ppchain` aims to ease the pains of building a model and running Bayesian inference.
+``ppchain`` aims to ease the pains of building a model and running Bayesian inference.
 
-Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, `ppchain` assists you in:
+Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, ``ppchain`` assists you in:
 
 1. Setting up a full probability model—a joint probability distribution for all observable and unobservable quantities in a problem. PP chain searches for domain knowledge about your underlying problem and helps building a model that is consistent with both this background knowledge and the collected data.
 
@@ -60,7 +60,7 @@ Following the 3 main steps of the Bayesian data analysis process, as defined in 
 ⚙ Workflow
 --------
 
-`ppchain` proposes a set of AI-assisted functions to progress through the following workflow:
+``ppchain`` proposes a set of AI-assisted functions to progress through the following workflow:
 
 * Define the problem statement
 * Formalize priors, :math:`$P(\theta)$`
