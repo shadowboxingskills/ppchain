@@ -45,9 +45,9 @@ Your copilot to build model internal representations and optimize your Bayesian 
 🚀 What can this help with?
 --------
 
-PP Chain aims to ease the pains of building a model and running Bayesian inference.
+*ppchain* aims to ease the pains of building a model and running Bayesian inference.
 
-Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, as a reference, PP Chain assists you in:
+Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, PP Chain assists you in:
 
 1. Setting up a full probability model—a joint probability distribution for all observable and unobservable quantities in a problem. PP chain searches for domain knowledge about your underlying problem and helps building a model that is consistent with both this background knowledge and the collected data.
 
@@ -63,9 +63,9 @@ Following the 3 main steps of the Bayesian data analysis process, as defined in 
 PP Chain proposes a set of AI-assisted functions to progress through the following workflow:
 
 * Define the problem statement
-* Formalize priors, :math:`P(\theta)`
-* Determine the likelihood function, :math:`P(y \mid \theta)`
-* Compute the posterior distribution, :math:`P(\theta \mid y)`
+* Formalize priors, :math:`$P(\theta)$`
+* Determine the likelihood function, :math:`$P(y \mid \theta)$`
+* Compute the posterior distribution, :math:`$P(\theta \mid y)$`
 * Run the posterior inference
 
 |
