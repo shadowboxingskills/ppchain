@@ -57,14 +57,15 @@ Your copilot to build model internal representations and optimize your Bayesian 
 
 Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, ``ppchain`` provides a (progressively growing) toolbox of AI-assisted functions aiming to make your life easier along the way:
 
-1.
-   Setting up a full probability model—a joint probability distribution for all observable and unobservable quantities in a problem. ``ppchain`` searches for domain knowledge about your underlying problem and helps building an internal representation that is consistent with both background knowledge and collected data.
+1. Setting up a full probability model—a joint probability distribution for all observable and unobservable quantities in a problem. ``ppchain`` searches for domain knowledge about your underlying problem and helps building an internal representation that is consistent with both background knowledge and collected data.
 
-2.
-   Conditioning on observed data: calculating and interpreting the appropriate posterior distribution—the conditional probability distribution of the unobserved quantities of ultimate interest, given the observed data.
+|
 
-3.
-   Evaluating the fit of the model and the implications of the resulting posterior distribution: how well does the model fit the data? are the substantive conclusions reasonable? and how sensitive are the results to the modeling assumptions made?
+2. Conditioning on observed data: calculating and interpreting the appropriate posterior distribution—the conditional probability distribution of the unobserved quantities of ultimate interest, given the observed data.
+
+|
+
+3. Evaluating the fit of the model and the implications of the resulting posterior distribution: how well does the model fit the data? are the substantive conclusions reasonable? and how sensitive are the results to the modeling assumptions made?
 
 |
 
