@@ -15,6 +15,10 @@
         :target: https://pypi.python.org/pypi/ppchain
         :alt: PyPi
 
+.. image:: https://github.com/shadowboxingskills/ppchain/actions/workflows/python-publish.yml/badge.svg
+        :target: https://github.com/shadowboxingskills/ppchain/actions/workflows/python-publish.yml
+        :alt: Upload Python Package
+
 .. image:: https://readthedocs.org/projects/ppchain/badge/?version=latest
         :target: https://ppchain.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
@@ -22,6 +26,10 @@
 .. image:: https://img.shields.io/librariesio/github/shadowboxingskills/ppchain
         :target: https://libraries.io/github/shadowboxingskills/ppchain
         :alt: Dependency Status
+
+.. image:: https://github.com/shadowboxingskills/ppchain/actions/workflows/codeql.yml/badge.svg
+        :target: https://github.com/shadowboxingskills/ppchain/actions/workflows/codeql.yml
+        :alt: CodeQL
 
 .. image:: https://img.shields.io/github/issues-raw/shadowboxingskills/ppchain
         :target: https://github.com/shadowboxingskills/ppchain/issues
