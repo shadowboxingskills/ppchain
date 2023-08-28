@@ -37,7 +37,7 @@
 --------
 
 Generative AI meets Probabilistic Programming.
-``ppchain``, an open-source toolkit for intuitive, effective modeling.
+``ppchain`` an open-source toolkit for intuitive, effective modeling.
 Your copilot to build model internal representations and optimize your Bayesian workflow.
 
 |
@@ -45,11 +45,11 @@ Your copilot to build model internal representations and optimize your Bayesian 
 🚀 What can this help with?
 --------
 
-``ppchain`` aims to ease the pains of building a model and running Bayesian inference.
+``ppchain`` aims to ease the pains of building a model.
 
-Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, ``ppchain`` assists you in:
+Following the 3 main steps of the Bayesian data analysis process, as defined in [1]_, ``ppchain`` provides a (progressively growing) toolbox of AI-assisted functions aiming to make your life easier along the way:
 
-1. Setting up a full probability model—a joint probability distribution for all observable and unobservable quantities in a problem. PP chain searches for domain knowledge about your underlying problem and helps building a model that is consistent with both this background knowledge and the collected data.
+1. Setting up a full probability model—a joint probability distribution for all observable and unobservable quantities in a problem. ``ppchain`` searches for domain knowledge about your underlying problem and helps building an internal representation that is consistent with both background knowledge and collected data.
 
 2. Conditioning on observed data: calculating and interpreting the appropriate posterior distribution—the conditional probability distribution of the unobserved quantities of ultimate interest, given the observed data.
 
@@ -66,7 +66,7 @@ Following the 3 main steps of the Bayesian data analysis process, as defined in 
 * Formalize priors, :math:`$P(\theta)$`
 * Determine the likelihood function, :math:`$P(y \mid \theta)$`
 * Compute the posterior distribution, :math:`$P(\theta \mid y)$`
-* Run the posterior inference
+* Run posterior inference
 
 |
 
@@ -100,7 +100,7 @@ See `LICENSE <https://github.com/shadowboxingskills/ppchain/blob/master/LICENSE>
 Credits & references
 -------
 
-* Initial inspiration for this package came from `Thomas Wiecki, PhD`_ and `Daniel Lee`_, as explained in more details in this `LinkedIn post`_ and `Medium article`_.
+* Initial inspiration for ``ppchain`` came from `Thomas Wiecki, PhD`_ and `Daniel Lee`_, as explained in more details in this `LinkedIn post`_ and `Medium article`_.
 * This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. [1] Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). Bayesian data analysis (3rd ed.). Chapman & Hall/CRC
